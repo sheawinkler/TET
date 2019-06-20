@@ -1,0 +1,21 @@
+Fields {width: 320px;
+        border: 2px ridge #ff0000;
+        padding: 10px
+        margin-bottom: 10px;}
+Legend {font-family: Georgia, "Times New Roman", serif;
+	   font-weight:bold;}
+label {float: left;
+       width: 100px;
+       clear: left;
+       text-align:right;
+       padding-right: 10px;
+       margin-top:10px;
+}
+input, textarea {margin-top: 10px;
+                 display: block;
+}
+form{background-color:#eaeaea;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
